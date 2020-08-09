@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    justify-content: flex-end;
+
+    position: fixed;
+    bottom: 0;
+}
+
+.footer .icon {
+    color: var(--red);
+    vertical-align: middle;
+}
+
+.footer span {
+    font-size: 16px;
+    font-weight: 300;
+}
